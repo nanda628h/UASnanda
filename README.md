@@ -173,4 +173,30 @@ if __name__ == "__main__"::
 
 Menjamin bahwa kode hanya dijalankan jika file ini dieksekusi langsung, bukan diimpor sebagai modul.
 
+## output
+``` python
+1. Tambah Data
+2. Tampil Data
+3. Keluar
+Pilih menu: 1
+Masukkan NIM: 324567
+Masukkan Nama: bato
+Masukkan Nilai: 100
+
+1. Tambah Data
+2. Tampil Data
+3. Keluar
+Pilih menu: 2
++--------+--------+---------+
+|    NIM | Nama   |   Nilai |
++========+========+=========+
+| 324567 | bato   |     100 |
++--------+--------+---------+
+
+1. Tambah Data
+2. Tampil Data
+3. Keluar
+Pilih menu:
+```
+
 
