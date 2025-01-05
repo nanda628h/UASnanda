@@ -1,4 +1,11 @@
 # Tugas UAS
+nama: ananda friezy eka cahya
+kelas: TI 24 A1
+nim: 312410151
+
+
+
+
 Buatlah program sederhana dengan ketentuan:
 • Program harus dibuat dengan konsep modular dan OOP (pisahkan
 class data, class view, dan class process)
